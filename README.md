@@ -2,4 +2,4 @@
 
 Desenvolvedor: Thalyson Barros Pereira
 
-Aplicação desenvolvida com Python e API (ViaCEP).
+Aplicação desenvolvida com Python e API REST (ViaCEP).
